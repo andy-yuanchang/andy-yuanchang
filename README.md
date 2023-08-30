@@ -1,5 +1,4 @@
-- 👋 I'm Andy Chang.
-- A Front end engineer
+- 👋 I'm Andy Chang. A Front end engineer
 
 <!---
 andy-yuanchang/andy-yuanchang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
